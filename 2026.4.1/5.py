@@ -1,0 +1,6 @@
+dict1 = dict({'자바': 80, 'PHP': 90, 'HTML': 70})
+print(dict1.keys())
+print(dict1.values())
+print(dict1.items())
+print('HTML' in dict1)
+print('파이썬' in dict1)
