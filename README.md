@@ -1,1 +1,0 @@
-# ducami-github-lecture
